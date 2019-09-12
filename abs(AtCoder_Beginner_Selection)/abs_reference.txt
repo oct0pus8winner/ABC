@@ -1,0 +1,10 @@
+ファイル名   コンテスト名    ランク   解けた・解けてない
+
+abs1-   AtCorder Beginner Selection ABC086A   solved
+abs2-   AtCorder Beginner Selection ABC081A   solved
+abs3-   AtCorder Beginner Selection ABC081B   solved
+abs4-   AtCorder Beginner Selection ABC087B   solved
+abs5-   AtCorder Beginner Selection ABC083B   solved
+abs6-   AtCorder Beginner Selection ABC088B   solved
+abs7-   AtCorder Beginner Selection ABC085B   solved
+abs8-   AtCorder Beginner Selection ABC085C   Not yet   --
